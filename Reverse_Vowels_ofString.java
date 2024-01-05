@@ -20,7 +20,7 @@ class Solution {
         return new String(chars);
     }
 }
-class Reverse_Vowels_String{
+class Reverse_Vowels_ofString{
     public static void main(String[] args){
         Solution s = new Solution();
         String result = s.reverseVowels("hello");
